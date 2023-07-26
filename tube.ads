@@ -1,4 +1,3 @@
-#
 #!name=YouTube
 #!desc=去除部分插播广告-没有pip
 
